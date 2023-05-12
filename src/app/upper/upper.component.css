@@ -1,0 +1,83 @@
+.card{
+    width: 100vw;
+    height: 45px;
+    background-color: #8a7350;
+    position: relative;
+}
+.para{
+    color: white;
+    position: absolute;
+    left: 600px;
+    font-size: 14px;
+
+}.app{
+    background-color: black;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    color: white;
+    gap: 15px;
+    transform: translateX(-120px);
+    /* margin-left: -200px; */
+}.puma{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin-left: 150px;
+}.new{
+    margin: 26px;
+    margin-right: 15px;
+    font-size: 16px;
+}.women{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.men{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.kids{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.moto{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.collab{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.sport{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.out{
+    margin: 26px;
+    font-size: 16px;
+    margin-right: 25px;
+}.search{
+    width: 240px;
+    padding: 3px;
+    margin: 15px;
+    margin-left: 170px;
+    height: 35px;
+    background-color: black;
+    border: solid 1px #f4f4f4;
+
+}.yellow{
+    width: 1700px;
+    height: 80px;
+    background-color: #f5e87c;
+    margin: 16px;
+    margin-left: 130px;
+    text-align: center;
+}.extra{
+    font-size: 30px;
+    /* margin-top: 2px; */
+    transform: translateY(10px);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}.auto{
+    font-size: 16px;
+    margin-top: -20px;
+}

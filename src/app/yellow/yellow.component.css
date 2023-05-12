@@ -1,0 +1,21 @@
+.card{
+    margin-top: 100px;
+}.data{
+    width: 1870px;
+}.fasts{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}.fresh{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}.now{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border: none;
+}.contant{
+    margin-left: 100px;
+    margin-top: -500px;
+}

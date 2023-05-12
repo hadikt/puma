@@ -1,0 +1,22 @@
+.w-full{
+    margin-top: 300px;
+    width: 1860px;
+}.content{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    margin-top: -400px;
+    margin-left: 100px;
+}.rss{
+    font-size: 50px;
+    color: white;
+}.for{
+    font-size: 26px;
+    color: white;
+}.shop{
+    width: 150px;
+    /* margin-left: 10px; */
+    height: 42px;
+    font-size: 20px;
+    border: none;
+}

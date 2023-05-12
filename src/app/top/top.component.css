@@ -1,0 +1,39 @@
+.top{
+    margin-left: 50px;
+    font-size: 30px;
+}.card{
+    width: 450px;
+    height: 500px;
+    /* background-color: red; */
+    margin-left: 50px;
+}.para{
+    display: flex;
+    margin-top: -10px;
+    justify-content: space-between;
+}.amg{
+    font-size: 22px;
+}.price{
+    margin-right: 10px;
+    /* margin-top: -10px; */
+    font-size: 22px;
+}.sl{
+    margin-top: -10px;
+    font-size: 22px;
+}.app{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 1%;
+    overflow-x: scroll;
+    /* padding-left: 50px; */
+    overflow-y: hidden;
+}.app::-webkit-scrollbar{
+    background-color: rgb(149, 140, 140);
+    outline: 1px solid slategrey;
+  /* inline-size: 3px ; */
+    width: 5px;
+    /* padding: 10px; */
+    margin-top: 200px;
+    height: 2px;
+  }.app::-webkit-scrollbar-thumb:hover {
+    background: rgb(76, 76, 182);
+  }

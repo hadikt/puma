@@ -1,0 +1,43 @@
+.recomand{
+    font-size: 30px;
+    margin:50px;
+}.card{
+    width: 450px;
+    height: 500px;
+    /* background-color: red; */
+    margin-left: 50px;
+}.discount{
+    background-color: #ee3e3e;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: 16px;
+    width: 70px;
+    transform: translateY(-450px);
+    /* margin-top: -300px; */
+}.para{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -45px;
+}.re{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}.pr{
+    font-size: 20px;
+    /* margin-top: -45px; */
+}.app{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}.app::-webkit-scrollbar{
+    background-color: rgb(149, 140, 140);
+    outline: 1px solid slategrey;
+  /* inline-size: 3px ; */
+    width: 5px;
+    /* padding: 10px; */
+    /* margin-top: 200px; */
+    height: 2px;
+  }.app::-webkit-scrollbar-thumb:hover {
+    background: rgb(76, 76, 182);
+  }

@@ -1,0 +1,78 @@
+.card{
+    width: 100vw;
+    height: 700px;
+    background-color: #68A68E;
+    margin-top: 70px;
+
+}.app{
+    width: 750px;
+    height: 800px;
+    background-color: red;
+    margin-left: 1000px;
+    transform: translateY(-40px);
+    /* margin-top: -100px; */
+    
+}.img{
+    margin-left: -70px;
+    width: 900px;
+    /* margin-top: 10px; */
+    height: 900px;
+    
+}.shoe{
+    width: 0920px;
+    height: 440px;
+    margin-left: -950px;
+    /* margin-top: -900px; */
+    transform: translateY(-490px);
+}.puma{
+    width: 800px;
+    height: 400px;
+    /* background-color: rgb(215, 190, 190); */
+    transform: translateY(-650px);
+}.squabe{
+    width: 60px;
+    height: 60px;
+}.puma2{
+    width: 60px;
+    height: 60px;
+    /* transform: translateX(-900px); */
+    margin-left: 80px;
+}.spong{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}.waves{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: -40px;
+}.btns{
+    display: flex;
+    /* gap: 10px; */
+    /* grid-template-columns: 1fr 1fr ; */
+    gap: 20px;
+}.shop{
+    width: 300px;
+    background-color: rgb(40, 39, 39);
+    height: 50px;
+    color: white;
+    border: none;
+    margin-left: 50px;
+    font-size: 22px;
+}.kids{
+    width: 300px;
+    background-color: rgb(40, 39, 39);
+    height: 50px;
+    color: white;
+    border: none;
+    /* margin-left: -30px; */
+    font-size: 22px;
+}.explore{
+    width: 360px;
+    background-color: rgb(40, 39, 39);
+    height: 50px;
+    color: white;
+    border: none;
+    /* transform: translateX(50px); */
+    font-size: 20px;
+}

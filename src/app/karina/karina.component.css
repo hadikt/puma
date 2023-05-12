@@ -1,0 +1,36 @@
+.card{
+    margin-top: -700px;
+}.kari{
+    width: 1900px;
+    /* height: 700px; */
+}.app{
+    width: 680px;
+    height: 300px;
+    background-color: red;
+    margin-left: 1200px;
+    margin-top: -500px;
+}.black{
+    color: white;
+    font-size: 45px;
+}.khan{
+    margin-left: 10px;
+    color: white;
+    font-size: 28px;
+}.btns{
+    display: flex;
+    gap: 10px;
+    /* width: 600px; */
+    /* height: 100px; */
+
+}.looks{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+}.kosmo{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+}.ever{width: 200px;
+    height: 60px;
+    font-size: 20px;
+}

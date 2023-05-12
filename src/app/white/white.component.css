@@ -1,0 +1,30 @@
+.kari{
+    width: 1860px;
+    margin-top: 150px;
+}.app{
+    width: 1000px;
+    height: 500px;
+    transform: translateY(-450px);
+    /* background-color: red; */
+}.puma{
+    margin-left: 70px;
+    font-size: 46px;
+    color: white;
+}.rebel{
+    margin-left: 70px;
+    font-size: 30px;
+    margin-top: -30px;
+    color: white;
+}.btns{
+    display: flex;
+    gap: 15px;
+    margin-left: 70px;
+}.shop{
+    width: 190px;
+    height: 50px;
+    font-size: 20px;
+}.explore{
+    width: 260px;
+    height: 50px;
+    font-size: 20px;
+}

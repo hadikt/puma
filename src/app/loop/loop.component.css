@@ -1,0 +1,40 @@
+.app{
+    width: 380px;
+    height: 430px;
+    background-color: black;
+
+}.card{
+  padding: 100px;
+  padding-top: -900px;
+  transform: translateY(-200px);
+  padding: 100px;
+  display: grid;
+  /* padding-left: 200px; */
+
+  grid-template-columns: 1fr 1fr  1fr 1fr 1fr 1fr 1fr ;
+  /* grid-row-gap: 50px; */
+  position: relative;
+  gap: 5%;
+  overflow-x: scroll;
+}.square{
+  width: 80px;
+  height: 560px;
+  /* height: 200px; */
+  background-color: white;
+  transform: translateY(-750px);
+}.aop{
+  display: flex;
+  margin-top: -20px;
+  justify-content: space-between;
+}.polo{
+  margin-top: -10px;
+  font-size: 18px;
+}.card::-webkit-scrollbar{
+  background-color: rgb(149, 140, 140);
+  outline: 1px solid slategrey;
+/* inline-size: 3px ; */
+  width: 5px;
+  height: 2px;
+}.card::-webkit-scrollbar-thumb:hover {
+  background: rgb(91, 91, 126);
+}
